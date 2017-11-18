@@ -6,10 +6,12 @@
 
 ## Resources
 
-[Git tag reference](file:///C:/Program%20Files/Git/mingw64/share/doc/git-doc/git-tag.html)
+ Git tag and merge references - Accessed in Git using the help flag on each command.
 
 ## Deductions
 
 I reviewed the list of deductions for this project and in the syllabus.
 
 ## Comments
+
+None. Thanks for a great semester!
